@@ -1,15 +1,15 @@
 ---
-title: 'Issue 33'
+title: 'AI & Accessibility'
 metaDesc: 'A made up agency site that you build if you take Learn Eleventy From Scratch, by Piccalilli'
 layout: 'layouts/home.html'
 intro:
-  eyebrow: 'Digital Marketing is our'
-  main: 'Bread & Butter'
-  summary: 'Let us help you create the perfect campaign with our multi-faceted team of talented creatives.'
+  eyebrow: 'Applied Research in AI'
+  main: 'Enhancing Accessibility in Software'
+  summary: 'Discover how we use AI to aid software developers in creating accessible software for individuals with intellectual and developmental disabilities.'
   buttonText: 'See our work'
   buttonUrl: '/work'
-  image: '/images/bg/toast.jpg'
-  imageAlt: 'Buttered toasted white bread'
+  image: '/images/bg/ai-powered-software.png'
+  imageAlt: 'AI-powered software interface on a computer screen'
 primaryCTA:
   title: 'This is an agency that doesn’t actually exist'
   summary: 'One of the core functions of SIRC is to increase research literacy through ongoing trainings and workshops, enhancing ability to better understand and improve social conditions, and contribute to the learning goals of the College.'

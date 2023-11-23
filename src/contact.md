@@ -3,6 +3,6 @@ title: 'Contact us'
 layout: 'layouts/page.html'
 ---
 
-This is a made up agency that is being used as a context for the project that you build when you [learn Eleventy from scratch](https://learneleventyfromscratch.com), so ideally, you shouldn’t try to contact us.
+One of the core functions of SIRC is to increase research literacy through ongoing trainings and workshops, enhancing ability to better understand and improve social conditions, [SOCIAL INNOVATION RESEARCH](https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/research-and-innovation-centres/social-innovation-research-centre), and contribute to the learning goals of the College.
 
-You can go ahead and purchase the course to build this page—amongst [the rest of the site](/)—by visiting [Piccalilli](https://learneleventyfromscratch.com).
+Some stuff that should give you an idea of what we’re all about. [the rest of the site](/)—by visiting [SOCIAL INNOVATION RESEARCH](https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/research-and-innovation-centres/social-innovation-research-centre).
