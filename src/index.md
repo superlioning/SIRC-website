@@ -8,7 +8,7 @@ intro:
   summary: 'Discover how we use AI to aid software developers in creating accessible software for individuals with intellectual and developmental disabilities.'
   buttonText: 'See our work'
   buttonUrl: '/work'
-  image: '/images/bg/ai-powered-software.png'
+  image: '/images/bg/ai-powered-software.jpg'
   imageAlt: 'AI-powered software interface on a computer screen'
 primaryCTA:
   title: 'This is an agency that doesn’t actually exist'

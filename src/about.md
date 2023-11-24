@@ -1,5 +1,5 @@
 ---
-title: 'About Issue 33'
+title: 'About Our Team'
 layout: 'layouts/about.html'
 permalink: '/about-us/index.html'
 ---
