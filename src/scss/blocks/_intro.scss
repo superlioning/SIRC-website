@@ -1,5 +1,6 @@
 .intro {
   // Default is a single column layout where the header overlaps the media
+  padding: get-size('700') 0;
   display: grid;
   grid-template-rows: get-size('700') minmax(0, 1fr) get-size('700') auto;
   grid-gap: get-size('500');
@@ -53,6 +54,7 @@
   // Switch to an inline layout with some vert space
   // above the header and content
   @include media-query('md') {
+    padding: get-size('800') 0;
     grid-template-rows: get-size('500') auto auto auto;
     grid-template-columns: minmax(15rem, 1fr) 2fr;
 

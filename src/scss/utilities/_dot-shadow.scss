@@ -3,3 +3,9 @@
   position: relative;
   box-shadow: 0px 0px var(--dot-shadow-size) 0px rgba(0, 0, 0, 0.90); /* Adjust color and opacity */
 }
+
+.head-shadow {
+  --head-shadow-size: 0.2rem; /* Adjust this size to control the spread of the shadow */
+  position: relative;
+  box-shadow: 0px 0px var(--head-shadow-size) 0px rgba(0, 0, 0, 0.40); /* Adjust color and opacity */
+}
