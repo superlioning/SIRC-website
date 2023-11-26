@@ -1,0 +1,37 @@
+<footer role="contentinfo" class="footer">
+    <div class="logo">
+        <a rel="home" href="/">
+            {% include "svg/brand.svg" %}
+        </a>
+    </div>
+    <div class="social">
+        <p class="h3">Social media</p>
+        <ul>
+            <li><a rel="external" href="https://twitter.com/" target="_blank">{% include
+                    'svg/twitter.svg' %} <span class="underline">Twitter</span></a></li>
+            <li><a rel="external" href="https://ca.linkedin.com/" target="_blank">{% include 'svg/linkedin.svg' %} <span
+                        class="underline">LinkedIn</span></a></li>
+            <li><a rel="external" href="https://medium.com/" target="_blank">{% include 'svg/youtube.svg' %} <span
+                        class="underline">YouTube</span></a></li>
+        </ul>
+    </div>
+    <div id="contact-us" class="contact">
+        <p class="h3">Contact us</p>
+        <div>
+            <p class="h4">Email</p>
+            <p class="email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+            <p class="h4">Address</p>
+            <p class="address">{{ site.address }}</p>
+        </div>
+        <div>
+            <p class="h4">Phone</p>
+            <p class="phone">{{ site.phone }}</p>
+            <p class="h4">Fax</p>
+            <p class="fax">{{ site.fax }}</p>
+        </div>
+    </div>
+    <div class="license-credit">
+        <p>Stay updated with our latest content. Subscribe to our RSS feed: <a rel="RSS Feed URL"
+                href="{{ site.url }}/feed.xml" target="_blank">RSS Subscription</a>.
+    </div>
+</footer>

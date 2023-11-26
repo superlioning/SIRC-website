@@ -2,5 +2,9 @@
   "name": "AI & Accessibility",
   "url": "https://aiandaccessibility.ca",
   "authorName": "Ning",
-  "authorEmail": "nzhang26@my.centennialcollege.ca"
+  "authorEmail": "nzhang26@my.centennialcollege.ca",
+  "email": "example@centennialcollege.ca",
+  "address": "Centennial College",
+  "phone": "416-0000-0000",
+  "fax": "416-0000-0000"
 }
