@@ -10,7 +10,7 @@
   @include media-query('md') {
     &__inner {
       display: grid;
-      grid-gap: get-size('700') get-size('500');
+      grid-gap: get-size('500') get-size('500');
       grid-template-columns: repeat(12, 1fr);
 
       @supports (display: grid) {
@@ -28,12 +28,12 @@
       grid-row: 2;
 
       // Pull the content in from the right, by reversing columns
-      grid-column: 12/5;
+      grid-column: 13/6;
     }
 
     &__action {
       grid-row: 3;
-      grid-column: 3/12;
+      grid-column: 5/13;
     }
   }
 
@@ -43,11 +43,11 @@
     }
 
     &__summary {
-      grid-column: 12/7;
+      grid-column: 13/7;
     }
 
     &__action {
-      grid-column: 6/12;
+      grid-column: 5/13;
     }
   }
 }

@@ -1,19 +1,19 @@
 ---
 title: 'AI & Accessibility'
-metaDesc: 'A made up agency site that you build if you take Learn Eleventy From Scratch, by Piccalilli'
+metaDesc: 'Exploring AI-driven software accessibility for individuals with intellectual and developmental disabilities through a collaborative research project by Centennial College, Surrey Place, and Community Living Toronto'
 layout: 'layouts/home.html'
 intro:
-  eyebrow: 'Applied Research in AI'
-  main: 'Enhancing Accessibility in Software'
-  summary: 'Discover how we use AI to aid software developers in creating accessible software for individuals with intellectual and developmental disabilities.'
-  buttonText: 'See our work'
+  eyebrow: 'Welcome to Our Initiative'
+  main: 'AI & Accessibility'
+  summary: 'In this applied research project, we explore the innovative use of AI to assist software developers. Our goal is to make software more accessible for individuals with intellectual and developmental disabilities (IDD).'
+  buttonText: 'Learn More'
   buttonUrl: '/work'
-  image: '/images/bg/ai-powered-software.jpg'
+  image: '/images/bg/background.jpg'
   imageAlt: 'AI-powered software interface on a computer screen'
 primaryCTA:
-  title: 'This is an agency that doesn’t actually exist'
-  summary: 'One of the core functions of SIRC is to increase research literacy through ongoing trainings and workshops, enhancing ability to better understand and improve social conditions, and contribute to the learning goals of the College.'
-  buttonText: 'SOCIAL INNOVATION RESEARCH'
+  title: 'Building Bridges in Digital Accessibility'
+  summary: 'Our project, a collaboration with Centennial College Social Innovation Research Centre, Surrey Place, and Community Living Toronto, originated from a shared commitment to inclusivity. It is a synergy of AI and human-centric design, focused on enhancing digital access for individuals with IDD. '
+  buttonText: 'About our centre'
   buttonUrl: 'https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/research-and-innovation-centres/social-innovation-research-centre'
 featuredWork:
   title: 'Selected work'
