@@ -12,12 +12,12 @@ intro:
   imageAlt: 'AI-powered software interface on a computer screen'
 primaryCTA:
   title: 'Building Bridges in Digital Accessibility'
-  summary: 'Our project, a collaboration with Centennial College Social Innovation Research Centre, Surrey Place, and Community Living Toronto, originated from a shared commitment to inclusivity. It is a synergy of AI and human-centric design, focused on enhancing digital access for individuals with IDD. '
-  buttonText: 'About our centre'
-  buttonUrl: 'https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/research-and-innovation-centres/social-innovation-research-centre'
+  summary: 'Our project, a collaboration with Centennial College Social Innovation Research Centre, Surrey Place, and Community Living Toronto, originated from a shared commitment to inclusivity. It is a synergy of AI and human-centric design, focused on enhancing digital access for individuals with IDD.'
+  buttonText: 'View Latest Updates'
+  buttonUrl: '/blog'
 featuredWork:
-  title: 'Selected work'
-  summary: 'Some stuff that should give you an idea of what we’re all about.'
+  title: 'Project Highlights'
+  summary: 'Discover our journey in enhancing software accessibility through AI.'
 studioFeed:
-  title: 'From inside the studio'
+  title: 'Glimpse Into the Project'
 ---

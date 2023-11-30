@@ -1,8 +1,12 @@
 ---
-title: 'Contact us'
+title: 'Our Connection'
 layout: 'layouts/page.html'
 ---
 
-One of the core functions of SIRC is to increase research literacy through ongoing trainings and workshops, enhancing ability to better understand and improve social conditions, [SOCIAL INNOVATION RESEARCH](https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/research-and-innovation-centres/social-innovation-research-centre), and contribute to the learning goals of the College.
+Connect with our project team for inquiries or collaboration opportunities. Whether you're interested in our research, want to participate, or simply have questions, we're here to assist you.
 
-Some stuff that should give you an idea of what we’re all about. [the rest of the site](/)—by visiting [SOCIAL INNOVATION RESEARCH](https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services/research-and-innovation-centres/social-innovation-research-centre).
+Get in touch with our project leaders for specific queries or guidance. Reach Johanna Niles for project insights, Daniel Huizenga for research-related queries, Tenzin Jinpa and Viji Angamuthu for Artificial Intelligence and software development, and Lowell Heppner for adaptive technology support.
+
+Whether you're an individual with IDD, a software developer, or just passionate about accessibility, your input is valuable to us.
+
+Follow our journey and stay informed about our latest developments, workshops, and achievements in the field of AI and accessibility. Join our newsletter via [RSS](/feed.xml) or follow us on social media for regular updates.

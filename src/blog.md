@@ -10,5 +10,4 @@ paginationNextText: 'Older posts'
 paginationAnchor: '#post-list'
 ---
 
-The latest articles from around the studio, demonstrating our design
-thinking, strategy and expertise.
+Our blog shares stories and updates on how AI is opening doors to new possibilities in digital accessibility.

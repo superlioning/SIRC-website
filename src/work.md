@@ -1,7 +1,6 @@
 ---
-title: 'Our finest work'
+title: 'Our Work'
 layout: 'layouts/work-landing.html'
 ---
 
-Some of our finest work from websites right through to printed
-branding that shows our range and diversity of talent in the agency.
+This project is primarily focused on using AI to improve HCI for individuals with IDD. See how we're making technology everyone can use.
