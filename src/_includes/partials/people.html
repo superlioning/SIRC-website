@@ -5,12 +5,20 @@
         <li>
             <figure class="[ person ] [ frame ]" data-frame="quaternary">
                 <img class="[ person__image ] [ radius ]" src="{{ item.data.image }}"
-                    alt="Image of {{ item.data.name }}" draggable="false" />
+                    alt="Image of {{ item.data.name }}" draggable="false"
+                    onclick="showPopup(this, '{{ item.data.bio }}')" />
                 <figcaption class="[ person__details ] [ leading-tight ]">
                     <span class="[ person__name ] [ font-sans weight-bold ]">{{ item.data.name }}</span>
                     <span class="person__title">{{ item.data.title }}</span>
                 </figcaption>
             </figure>
+            <!-- Popup container -->
+            <div class="popup" id="popup-{{ loop.index }}">
+                <div class="popup-content">
+                    <img src="{{ item.data.image }}" alt="Image of {{ item.data.name }}" />
+                    <p class="bio">{{ item.data.bio }}</p>
+                </div>
+            </div>
         </li>
         {% endfor %}
     </ol>
