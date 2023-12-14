@@ -15,4 +15,4 @@ Get in touch with our project leaders for specific queries or guidance:
 
 Follow our journey and stay informed about our latest developments, workshops, and achievements in the field of AI and accessibility. Join our newsletter via [RSS](/feed.xml) or follow us on social media for regular updates.
 
-This project is supported by the [Social Innovation Research Centre](https://centennialsirc.wordpress.com/) at [Centennial College](mailto:https://www.centennialcollege.ca).
+This project is supported by the [Social Innovation Research Centre](https://centennialsirc.wordpress.com/) at [Centennial College](https://www.centennialcollege.ca/).
