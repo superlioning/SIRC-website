@@ -1,11 +1,11 @@
 ---
 title: 'What is AI?'
 summary: 'Dive into the world of Artificial Intelligence and discover its transformative impact.'
-displayOrder: 4
+displayOrder: 2
 featured: false
 hero:
   image: '/images/work/what-is-AI-hero.jpg'
-  imageAlt: 'A laptop, a cell phone and an open notebook'
+  imageAlt: 'A laptop with codes displayed and a monitor'
 keyFacts:
   - primary: 'AI Integration'
     secondary: 'Widespread use'

@@ -1,7 +1,7 @@
 ---
 title: 'What is a disability?'
 summary: 'Exploring the concept of disability as a social construct and its impact in the digital world.'
-displayOrder: 2
+displayOrder: 1
 featured: true
 hero:
   image: '/images/work/what-is-a-disability-hero.jpg'
@@ -10,7 +10,7 @@ keyFacts:
   - primary: 'Accessibility'
     secondary: 'Essential for all'
   - primary: 'Inclusivity'
-    secondary: 'Beyond physical limits'
+    secondary: 'Beyond limits'
   - primary: 'Empowerment'
     secondary: 'Through technology'
   - primary: 'Awareness'
