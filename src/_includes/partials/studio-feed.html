@@ -1,4 +1,4 @@
-{% if studio.length %}
+{% if logos.items %}
 <article class="[ studio-feed ] [ panel ] [ bg-pattens-blue ]">
     <div class="[ wrapper ] [ flow flow-space-300 ]">
         <h2 class="[ studio-feed__heading ] [ headline ] [ md:measure-micro ]" data-highlight="secondary">
@@ -7,11 +7,13 @@
         <p class="visually-hidden" id="studio-feed-desc">
             A collection of images from around our project and the people who work here.
         </p>
-        <div class="[ studio-feed__items ] [ flow-space-700 ]">
+        <div class="[ studio-feed__items ] [ flow-space-300 ]">
             <ul class="studio-feed__list">
-                {% for item in studio %}
-                <li>
-                    <img src="{{ item.medium }}" alt="{{ item.alt }}" draggable="false" class="radius" />
+                {% for item in logos.items %}
+                <li class="{{ item.id }}">
+                    <a href="{{ item.url }}" aria-label="Visit {{ item.data.title }}" target="_blank">
+                        <img src="{{ item.image }}" alt="{{ item.alt }}" draggable="false" class="radius" />
+                    </a>
                 </li>
                 {% endfor %}
             </ul>

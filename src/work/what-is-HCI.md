@@ -1,5 +1,5 @@
 ---
-title: 'What is HCI?'
+title: 'What is HCI'
 summary: 'An insightful look into Human-Computer Interaction and its impact.'
 displayOrder: 3
 featured: true 

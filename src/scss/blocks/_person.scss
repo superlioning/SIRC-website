@@ -27,7 +27,7 @@
     cursor: pointer; // Changes the cursor to a pointer on hover
 
     .person__image {
-      transform: scale(1.05); // Slightly enlarges the image
+      transform: scale(1.03); // Slightly enlarges the image
       transition: transform 0.3s ease-in-out; // Smooth transition for scaling
 
       opacity: 0.8; // Reduces the opacity to 80% on hover
@@ -72,10 +72,12 @@
     width: 100%;
 
     img {
-      max-width: 100%;
+      width: 100%;
       height: auto;
+      object-fit: cover;
       display: block;
       margin: 0 auto 20px;
+      max-height: 700px;
     }
 
     .bio {

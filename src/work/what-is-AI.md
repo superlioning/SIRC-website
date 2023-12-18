@@ -1,5 +1,5 @@
 ---
-title: 'What is AI?'
+title: 'What is AI'
 summary: 'Dive into the world of Artificial Intelligence and discover its transformative impact.'
 displayOrder: 2
 featured: false

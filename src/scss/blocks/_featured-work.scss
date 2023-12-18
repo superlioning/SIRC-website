@@ -1,17 +1,22 @@
 .featured-work {
   &__item {
     display: block;
+
+    &:hover img {
+      opacity: 0.6; // Slightly reduces the opacity
+      transition: opacity 0.3s ease;
+    }
   }
 
   &__action {
     text-align: center;
   }
 
-  @include media-query('md') {
+  @include media-query("md") {
     &__inner {
       display: grid;
       grid-template-columns: repeat(12, 1fr);
-      grid-gap: get-size('700') get-size('500');
+      grid-gap: get-size("700") get-size("500");
 
       @supports (display: grid) {
         > * {
@@ -36,7 +41,7 @@
     }
   }
 
-  @include media-query('lg') {
+  @include media-query("lg") {
     grid-template-columns: repeat(2, 1fr);
 
     &__intro,

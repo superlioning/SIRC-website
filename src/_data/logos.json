@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "alt": "The logo of Natural Sciences and Engineering Research Council of Canada",
+      "image": "/images/logos/1.png",
+      "url": "https://www.nserc-crsng.gc.ca/index_eng.asp",
+      "id": "logo-1"
+    },
+
+    {
+      "name": "Centennial Innovates",
+      "alt": "The logo of Centennial Innovates",
+      "image": "/images/logos/2.png",
+      "url": "https://www.centennialcollege.ca/about-centennial/centres-and-institutes/applied-research-innovation-and-entrepreneurship-services",
+      "id": "logo-2"
+    },
+
+    {
+      "name": "CLTO Influencers",
+      "alt": "The logo of CLTO Influencers",
+      "image": "/images/logos/3.png",
+      "url": "https://cltoinfluencers.ca/",
+      "id": "logo-3"
+    },
+
+    {
+      "name": "Surrey Place",
+      "alt": "The logo of Surrey Place",
+      "image": "/images/logos/4.png",
+      "url": "https://www.surreyplace.ca/",
+      "id": "logo-4"
+    },
+
+    {
+      "name": "Centennial College",
+      "alt": "The logo of Centennial College",
+      "image": "/images/logos/5.png",
+      "url": "https://www.centennialcollege.ca",
+      "id": "logo-5"
+    },
+
+    {
+      "name": "Community Living Toronto",
+      "alt": "The logo of Community Living Toronto",
+      "image": "/images/logos/6.png",
+      "url": "https://cltoronto.ca/",
+      "id": "logo-6"
+    }
+  ]
+}

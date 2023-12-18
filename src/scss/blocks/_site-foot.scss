@@ -68,14 +68,24 @@
   inline-size: rem(192);
 }
 
+.footer .logo a {
+  &:hover {
+    transform: scale(1.05); // Slightly enlarges the image
+    transition: transform 0.3s ease; // Smooth transition effect
+
+    opacity: 0.7; // Slightly reduces the opacity
+    background: none;
+  }
+}
+
 .footer a {
   &:hover {
-    background: get-color('hawkes-blue');
+    background: get-color("hawkes-blue");
   }
 }
 
 .footer a:visited {
-  text-decoration-color: get-color('primary');
+  text-decoration-color: get-color("primary");
 }
 
 .footer .social,

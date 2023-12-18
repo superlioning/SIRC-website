@@ -1,5 +1,5 @@
 ---
-title: 'What is a disability?'
+title: 'What is a disability'
 summary: 'Exploring the concept of disability as a social construct and its impact in the digital world.'
 displayOrder: 1
 featured: true

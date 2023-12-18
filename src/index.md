@@ -19,5 +19,5 @@ featuredWork:
   title: 'Project Highlights'
   summary: 'Discover our journey in enhancing software accessibility through AI.'
 studioFeed:
-  title: 'Glimpse Into the Project'
+  title: 'Partners and Sponsors'
 ---
