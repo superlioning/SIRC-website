@@ -24,7 +24,7 @@ gallery:
     summary: 'Disability is not just a physical or mental impairment; it is deeply rooted in societal structures and perceptions. It emerges from the interaction between individuals with impairments and the barriers they face in society, particularly those created unintentionally by software designed for the "average" user.'
     image: '/images/work/what-is-a-disability-1.jpg'
   - title: 'The UN Perspective'
-    summary: 'The United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) emphasizes that disability results from the interaction of persons with impairments and societal barriers. This framework shifts the focus from the individual to the societal structures that need adaptation.'
+    summary: 'The United Nations Convention on the Rights of Persons with Disabilities (UNCRPD) emphasizes that disability results from the interaction of persons with impairments and societal barriers. This framework shifts the focus from the individual to societal structures that need adaptation.'
     image: '/images/work/what-is-a-disability-2.jpg'
   - title: 'Tech as a Barrier'
     summary: 'While technology has advanced rapidly, it often overlooks the needs of people with disabilities. This oversight leads to further marginalization, highlighting the necessity for inclusive design in software development to accommodate diverse user needs.'

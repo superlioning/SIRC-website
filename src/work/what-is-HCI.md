@@ -24,7 +24,7 @@ gallery:
     summary: 'Human-Computer Interaction (HCI) is an interdisciplinary area of study and technology, focusing on the interaction between software interfaces and humans. It aims to improve the communication pathways between users and modern technology, ensuring that technology is not only efficient but also user-friendly.'
     image: '/images/work/what-is-HCI-1.jpg'
   - title: 'Goals of HCI'
-    summary: 'The primary goal of HCI is to design products that enhance user experience. This involves making technology simple to understand and the user experience as friendly and accessible as possible. HCI strives for high usability, accessibility, and performance, fostering a sense of connectivity and interaction.'
+    summary: 'The primary goal of HCI is to design products that enhance user experience. This involves making technology simple to understand and the user experience as friendly and accessible as possible. HCI strives for high usability and accessibility, fostering a sense of connectivity and interaction.'
     image: '/images/work/what-is-HCI-2.jpg'
   - title: 'Impact on Users'
     summary: 'HCI plays a crucial role in shaping user experiences with technology. A well-designed HCI leads to better usability, enhancing user satisfaction, and loyalty. The focus on user-friendly design and interaction creates a positive atmosphere for users, making them more likely to engage with and be loyal to the technology.'
