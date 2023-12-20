@@ -16,7 +16,7 @@
             <div class="popup" id="popup-{{ loop.index }}">
                 <div class="popup-content">
                     <img src="{{ item.data.image }}" alt="Image of {{ item.data.name }}" />
-                    <p class="bio">{{ item.data.bio }}</p>
+                    <p class="bio">{{ item.content | safe }}</p>
                 </div>
             </div>
         </li>

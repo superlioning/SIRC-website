@@ -10,6 +10,7 @@ Get in touch with our project leaders for specific queries or guidance:
 - For research-related queries: [Daniel Huizenga](mailto:dhuizenga@centennialcollege.ca)
 - For AI and software development: [Tenzin Jinpa](mailto:tJinpa@centennialcollege.ca) and [Viji Angamuthu](mailto:vtiruche@my.centennialcollege.ca)
 - For adaptive technology support: [Lowell Heppner](mailto:LHeppner@centennialcollege.ca)
+- For website issues or inquiries: [Ninghua Zhang](mailto:nzhang26@my.centennialcollege.ca)
 
 > Whether you're an individual with IDD, a software developer, or just passionate about accessibility, your input is valuable to us.
 
