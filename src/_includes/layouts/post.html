@@ -28,7 +28,7 @@
         {{ content | safe }}
     </div>
 
-    {% if recommendedPosts %}
+    {% if recommendedPosts and recommendedPosts.length > 0 %}
     <footer class="recommended-posts">
         {% set postListItems = recommendedPosts %}
         {% set postListHeadline = 'More from the blog' %}

@@ -32,5 +32,5 @@ gallery:
   - title: 'Inclusive Design'
     summary: 'Inclusive design in software development is crucial. It ensures that products are accessible to and usable by everyone, regardless of their abilities or disabilities. This approach not only benefits individuals with impairments but enhances usability for all users.'
     image: '/images/work/what-is-a-disability-4.jpg'
-team: [1, 4, 6]
+team: []
 ---

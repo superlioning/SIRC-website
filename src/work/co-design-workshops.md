@@ -29,5 +29,5 @@ gallery:
   - title: 'Real Impact'
     summary: 'By involving individuals with disabilities in the software development process, Co-Design Workshops create accessible and user-friendly products. This initiative extends beyond immediate benefits to participants, fostering a more inclusive society and setting new standards for universal design practices.'
     image: '/images/work/co-design-workshops-3.jpg'
-team: [1, 4, 6]
+team: []
 ---

@@ -26,5 +26,5 @@ gallery:
   - title: 'Impact of AI'
     summary: 'The impact of AI is profound and ever-growing. It combines datasets and computer science to empower problem-solving abilities. With technological advancements, AI integration into daily life has become more pronounced, challenging our understanding of its capabilities as it evolves to perform a myriad of tasks.'
     image: '/images/work/what-is-AI-2.jpg'
-team: [1, 2, 5]
+team: []
 ---

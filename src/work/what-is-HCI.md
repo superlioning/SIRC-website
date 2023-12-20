@@ -29,5 +29,5 @@ gallery:
   - title: 'Impact on Users'
     summary: 'HCI plays a crucial role in shaping user experiences with technology. A well-designed HCI leads to better usability, enhancing user satisfaction, and loyalty. The focus on user-friendly design and interaction creates a positive atmosphere for users, making them more likely to engage with and be loyal to the technology.'
     image: '/images/work/what-is-HCI-3.jpg'
-team: [2, 5, 4]
+team: []
 ---
