@@ -2,10 +2,21 @@
 pageCriticalStyles = ['css/page.css'] %} {% block content %}
 <article>
     {% include "partials/page-header.html" %}
+    {% if pageType == 'error' %}
+    <div class="panel centered-content">
+        <div class="[ page-content ] [ flow wrapper ] [ flow-space-700 ]">
+            <img src="/images/bg/error-page.png" alt="A confused cartoon robot" class="error-image">
+            <div class="content-text">
+                {{ content | safe }}
+            </div>
+        </div>
+    </div>
+    {% else %}
     <div class="panel bg-light">
         <div class="[ page-content ] [ flow wrapper ] [ flow-space-700 ]">
             {{ content | safe }}
         </div>
     </div>
+    {% endif %}
 </article>
 {% endblock %}

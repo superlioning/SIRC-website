@@ -9,7 +9,7 @@ intro:
   buttonText: 'Learn More'
   buttonUrl: '/work'
   image: '/images/bg/background.jpg'
-  imageAlt: 'AI-powered software interface on a computer screen'
+  imageAlt: 'A desk with a variety of electronics on it'
 primaryCTA:
   title: 'Building Bridges in Digital Accessibility'
   summary: 'Our project, a collaboration with Centennial College Social Innovation Research Centre, Surrey Place, and Community Living Toronto, originated from a shared commitment to inclusivity. It is a synergy of AI and human-centric design, focused on enhancing digital access for individuals with IDD.'

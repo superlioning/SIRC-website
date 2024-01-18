@@ -1,0 +1,30 @@
+// Error page styles
+.centered-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.error-image {
+    max-width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.content-text {
+    margin-top: get-size('500');
+}
+
+@include media-query('md') {
+    .error-image {
+        max-width: 54%;
+    }
+}
+
+@include media-query('lg') {
+    .error-image {
+        max-width: 60%;
+    }  
+}
