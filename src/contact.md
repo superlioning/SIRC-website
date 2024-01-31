@@ -1,6 +1,12 @@
 ---
 title: 'Our Connection'
 layout: 'layouts/page.html'
+pageHeaderSummary: 'Whether you are an individual with IDD, a software developer, or just passionate about accessibility, your input is valuable to us.'
+pageCTA:
+  title: 'Building Bridges in Digital Accessibility'
+  summary: 'Our project, a collaboration with Centennial College Social Innovation Research Centre, Surrey Place, and Community Living Toronto, originated from a shared commitment to inclusivity. It is a synergy of AI and human-centric design, focused on enhancing digital access for individuals with IDD.'
+  buttonText: 'View Latest Updates'
+  buttonUrl: '/blog'
 ---
 
 Connect with our project team for inquiries or collaboration opportunities. Whether you're interested in our research, want to participate, or simply have questions, **we're here to assist you**.
@@ -12,9 +18,7 @@ Get in touch with our project leaders for specific queries or guidance:
 - For adaptive technology support: [Lowell Heppner](mailto:LHeppner@centennialcollege.ca)
 - For website issues or inquiries: [Ninghua Zhang](mailto:nzhang26@my.centennialcollege.ca)
 
-> Whether you're an individual with IDD, a software developer, or just passionate about accessibility, your input is valuable to us.
-
-Follow our journey and stay informed about our latest developments, workshops, and achievements in the field of AI and accessibility. Join our newsletter via [RSS](/feed.xml) or follow us on social media for regular updates.
+> Follow our journey and stay informed about our latest developments, workshops, and achievements in the field of AI and accessibility. Join our newsletter via [RSS](/feed.xml) or follow us on social media for regular updates.
 
 This project is supported by the [Social Innovation Research Centre](https://centennialsirc.wordpress.com/) at [Centennial College](https://www.centennialcollege.ca/).
 

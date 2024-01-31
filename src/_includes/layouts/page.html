@@ -12,11 +12,14 @@ pageCriticalStyles = ['css/page.css'] %} {% block content %}
         </div>
     </div>
     {% else %}
-    <div class="panel bg-light">
+    <div class="panel bg-white page-shadow">
         <div class="[ page-content ] [ flow wrapper ] [ flow-space-700 ]">
             {{ content | safe }}
         </div>
     </div>
     {% endif %}
 </article>
+
+{% set ctaContent = pageCTA %}
+{% include "partials/cta.html" %}
 {% endblock %}
