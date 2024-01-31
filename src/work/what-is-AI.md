@@ -2,7 +2,7 @@
 title: 'What is AI'
 summary: 'Dive into the world of Artificial Intelligence and discover its transformative impact.'
 displayOrder: 2
-featured: false
+featured: true
 hero:
   image: '/images/work/what-is-AI-hero.jpg'
   imageAlt: 'A laptop with codes displayed and a monitor'
