@@ -12,13 +12,16 @@ tags: ['Update', 'Literature Review', 'Accessibility', 'AI']
 At the core of our exploration is the transformative power of AI and machine learning. These technologies are not just about emulating human intelligence; they are about surpassing traditional barriers, crafting assistive tools, and creating a more inclusive digital realm. From cognitive to physical impairments, AI's application in assistive technology (AT) is broadening horizons and improving the quality of life for many.
 
 # Key Highlights from Our Review
-### Interface Design for IDD: 
-AI is revolutionizing interface design, making technology accessible for individuals with Intellectual or Developmental Disabilities (IDD). By conforming to W3C Web Content Accessibility Guidelines (WCAG), and leveraging AI algorithms, we're creating interfaces that cater to the unique needs of individuals across a spectrum of disabilities.
-### Assistive Technology and AIoT:
-Assistive Technology (AT) is benefiting from AI, offering devices and services that improve the quality of life for those with physical impairments. The integration of AI with the Internet of Things (AIoT) is pushing the boundaries of what AT can achieve, from navigation systems for the blind to voice assistants that facilitate communication.
-### Voice AI:
-Voice assistants like Siri and Google Assistant are making digital content more accessible, translating spoken words into text and vice versa. This technology is particularly beneficial for individuals with visual, auditory, or motor impairments.
-### Personalization and Adaptation:
+**Interface Design for IDD:**   
+AI is revolutionizing interface design, making technology accessible for individuals with Intellectual or Developmental Disabilities (IDD). By conforming to W3C Web Content Accessibility Guidelines (WCAG), and leveraging AI algorithms, we're creating interfaces that cater to the unique needs of individuals across a spectrum of disabilities.   
+
+**Assistive Technology and AIoT:**   
+Assistive Technology (AT) is benefiting from AI, offering devices and services that improve the quality of life for those with physical impairments. The integration of AI with the Internet of Things (AIoT) is pushing the boundaries of what AT can achieve, from navigation systems for the blind to voice assistants that facilitate communication.   
+
+**Voice AI:**   
+Voice assistants like Siri and Google Assistant are making digital content more accessible, translating spoken words into text and vice versa. This technology is particularly beneficial for individuals with visual, auditory, or motor impairments.   
+
+**Personalization and Adaptation:**   
 AI's ability to learn user preferences and adapt interfaces accordingly is creating more personalized and accessible user experiences. Technologies such as autocorrect are evolving to support those with cognitive or motor impairments more effectively.
 
 # Spotlight on Projects
