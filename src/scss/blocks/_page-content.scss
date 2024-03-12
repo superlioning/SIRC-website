@@ -43,3 +43,51 @@
     --flow-space: #{get-size('300')};
   }
 }
+
+#webform {
+    border-radius: 5px;
+    padding: 20px 30px;
+    width: 85%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* Soft shadow for depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for scale and shadow */
+    margin: 15px auto 0 auto; /* Center the form */
+}
+
+#webform:hover {
+    transform: translateY(-3px); /* Slight raise effect on hover */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2); /* Increased shadow for lifted effect */
+}
+
+#webform input[type="text"],
+#webform textarea {
+    margin-top: 5px;
+    background-color: #fff;
+    border: 1px solid #ccc; /* Adds a border */
+    width: 100%; /* Makes input fields take full width of the form */
+    box-sizing: border-box; /* Ensures padding does not increase size */
+    border-radius: 4px; /* Rounded corners */
+    padding: 0 10px; /* Padding inside inputs */
+    transition: border-color 0.3s ease; /* Smooth transition for border color */
+}
+
+#webform textarea {
+    height: auto; /* Adjusts height for text area */
+    padding: 10px; /* More padding for text area */
+}
+
+#webform button {
+    font-size: 14px;
+    background-color: #6b7ddf;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 35px;
+    margin: 5px 0 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer; /* Changes the cursor to a pointer */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+#webform button:hover {
+    background-color: #5a6bc8; /* Darker shade on hover */
+}
