@@ -17,11 +17,11 @@ Get in touch with our project leaders for specific queries or guidance:
 
 <div>
    <p>You can also leave us a message</p>
-   <form accept-charset="UTF-8" action="https://formsubmit.co/xuanr.zhang@gmail.com" method="POST" enctype="multipart/form-data" id="webform">
+   <form accept-charset="UTF-8" action="https://formsubmit.co/dhuizenga@centennialcollege.ca" method="POST" enctype="multipart/form-data" id="webform">
       <div>
          <label>Your Name</label>
          <div>
-            <input type="text" name="user_name" placeholder="Enter your name and surname" required="required">
+            <input type="text" name="user_name" placeholder="Enter your name" required="required">
          </div>
       </div>
       <br>
@@ -49,9 +49,8 @@ Get in touch with our project leaders for specific queries or guidance:
 
 > Follow our journey and stay informed about our latest developments, workshops, and achievements in the field of AI and accessibility. Join our newsletter via [RSS](/feed.xml) or follow us on social media for regular updates.
 
-This project is supported by the [Social Innovation Research Centre](https://centennialsirc.wordpress.com/) at Centennial College.    
+This project is supported by the [Social Innovation Research Centre](https://centennialsirc.wordpress.com/) at Centennial College.
 
 We acknowledge the support of the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/index_eng.asp) (NSERC).
-<br/>
-<br/>
+
 Found an issue with our website? Please contact [Ninghua Zhang](mailto:nzhang26@my.centennialcollege.ca)
