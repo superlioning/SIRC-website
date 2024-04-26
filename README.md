@@ -14,16 +14,22 @@ To get started with this project, follow these steps:
 
 1. **Clone the project**  
 Fork this repository and clone it to your local machine. To do this, run:
+```bash
 git clone <your-forked-repository-url>
+```
 Replace `<your-forked-repository-url>` with the URL of your fork.
 
 2. **Install dependencies**  
 Navigate into the project directory and run the following command to install the necessary dependencies:
+```bash
 npm install
+```
 
 3. **Start the development server**  
 To start the development server and work on the project, run:
+```bash
 npm start
+```
 This will compile the site and serve it on `http://localhost:8080`.
 
 ## How to Build
@@ -32,7 +38,9 @@ To build a static version of the website for production, follow these steps:
 
 1. **Build the project**  
 Run the following command to build the entire project:
+```bash
 npm run production
+```
 
 2. **Publish the website**  
 After building the project, publish the contents of the `dist` folder to your web server or hosting service to deploy the website.
@@ -42,4 +50,4 @@ After building the project, publish the contents of the `dist` folder to your we
 - **`_includes` folder**: Contains the Nunjucks templates for the pages.
 - **`people` folder**: Contains profile data for individuals featured on the website.
 - **`posts` folder**: Houses newsletter articles.
-- **`work` folder**: Includes entries related to various work items or projects.
+- **`work` folder**: Includes entries related to work items or projects.
